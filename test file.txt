@@ -1,5 +1,4 @@
-test here..
-setelah di tambahkan 
+Ini adalah test file,
+test file ini diubah seluruhnya,
 
-coba lagi deh
-https://github.com/imamfirmansyah/pemrograman-3.git
+url : https://github.com/imamfirmansyah/pemrograman-3.git
