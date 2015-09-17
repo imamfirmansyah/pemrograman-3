@@ -1,4 +1,6 @@
 Ini adalah test file,
 test file ini diubah seluruhnya,
 
+- coba pakai git bash
+
 url : https://github.com/imamfirmansyah/pemrograman-3.git
