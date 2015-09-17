@@ -2,5 +2,6 @@ Ini adalah test file,
 test file ini diubah seluruhnya,
 
 - coba pakai git bash
+- dengan ditambah data lagi
 
 url : https://github.com/imamfirmansyah/pemrograman-3.git
